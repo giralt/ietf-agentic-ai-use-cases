@@ -33,7 +33,7 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 
 Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve@nokia.com>, Roland Schott <Roland.Schott@telekom.de>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
 
-## Talks abstracts and slides
+## Abstracts and slides
 
 
 **Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals.** 
