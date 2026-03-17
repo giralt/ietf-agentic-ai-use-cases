@@ -41,7 +41,7 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 **Use Case: Agent Communication Network scenarios and Gap Analysis**
 
-**Abstract.** WIP
+**Abstract.** (made available soon)
 
 **Use Case: Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals** 
 
@@ -49,11 +49,11 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 **Use Case: 6G Use Cases for AI Agent Communication Protocols**
 
-**Abstract.** WIP
+**Abstract.** (made available soon)
 
 **Use Case: DT Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery**
 
-**Abstract.** WIP
+**Abstract.** (made available soon)
 
 
 
