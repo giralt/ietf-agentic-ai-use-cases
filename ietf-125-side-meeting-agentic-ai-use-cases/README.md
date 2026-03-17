@@ -19,6 +19,7 @@ Organizers: Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien
 - [16:55 - 17:10] "Agentic AI Use Cases Requirements": https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases/, Julien Maisonneuve (Nokia), Jordi Ros-Giralt (Qualcomm), Roland Schott (Deutsche Telekom), L. M. Contreras (Telefonica)
 - [17:10 - 17:25] "Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals": Jinyang Li and Shuping Peng (Huawei)
 - [17:25 - 17:40] "AI Agent protocols for 6G systems": https://datatracker.ietf.org/doc/draft-stephan-ai-agent-6g/, E. Stephan (Orange), R. Schott (Deutsche Telekom), D. Lopez (Telefonica), X. Duan (China Mobile), L. Morand (Huawei)
+- [XX - XX] "DT Use Cases for Agentic AI: RAN and Agent Discovery", Roland Schott (Deutsche Telekom)
 - [17:40 - 17:55] Discussions
 - [17:55 - 18:00] Conclusions
 
