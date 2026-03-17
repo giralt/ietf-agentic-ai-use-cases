@@ -21,7 +21,7 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 ## Agenda
 
 - [16:30 - 16:40] Note Well, Agenda Bash and Problem Motivation
-- [16:40 - 16:50] "Agentic AI Use Cases Requirements", https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases/, Julien Maisonneuve (Nokia), Jordi Ros-Giralt (Qualcomm), Roland Schott (Deutsche Telekom), L. M. Contreras (Telefonica)
+- [16:40 - 16:50] "Guidelines and Requirements for Agentic AI Use Case Descriptions", https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases/, Julien Maisonneuve (Nokia), Jordi Ros-Giralt (Qualcomm), Roland Schott (Deutsche Telekom), L. M. Contreras (Telefonica)
 - [16:50 - 17:00] "Agent Communication Network scenarios and Gap Analysis", https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis/, Kehan Yao (China Mobile) 
 - [17:00 - 17:10] "Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals", Jinyang Li and Shuping Peng (Huawei)
 - [17:10 - 17:20] "6G Use Cases for AI Agent Communication Protocols", https://datatracker.ietf.org/doc/draft-stephan-ai-agent-6g/, E. Stephan (Orange), R. Schott (Deutsche Telekom), D. Lopez (Telefonica), X. Duan (China Mobile), L. Morand (Huawei)
@@ -35,6 +35,9 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 ## Abstracts and slides
 
+**Guidelines and Requirements for Agentic AI Use Case Descriptions**
+
+**Abstract."" This presentation focuses on presenting an initial set of guidalines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis.
 
 **Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals.** 
 
