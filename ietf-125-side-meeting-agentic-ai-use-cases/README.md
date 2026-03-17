@@ -32,3 +32,14 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 ## Organizers 
 
 Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve@nokia.com>, Roland Schott <Roland.Schott@telekom.de>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
+
+## Talks abstracts and slides
+
+
+**Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals.** 
+
+**Abstract.** This presentation explores the challenges of building personal agentic ecosystems on terminal devices, where strict constraints on tokens, latency, and user attention make existing stateless, plain-text protocols insufficient. We present three use cases — cross-app context synchronization, multi-step AuthZ aggregation, and agent evolution via experience templates — each targeting a key inefficiency in current multi-agent workflows on terminals.
+
+[slides]([url](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/Agent-to-AgentAPPsTools%20Interaction%20and%20Invocation%20Scenarios%20on%20Terminals%20-%2001.pdf))
+
+
