@@ -33,9 +33,13 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 
 ## Abstracts and slides
 
+### Notewell, Agenda Bash, Side Meeting Motivation, and Discussion Questions
+
+https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf125-agentic-ai-uses-cases-side-meeting.pdf
+
 ### Guidelines and Requirements for Agentic AI Use Case Descriptions
 
-**Abstract.** This presentation focuses on presenting an initial set of guidelines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis.
+**Abstract.** This presentation focuses on presenting an initial set of guidelines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf125-agentic-ai-uses-cases-guidance.pdf)]
 
 ### Use Case: Agent Communication Network scenarios and Gap Analysis
 
