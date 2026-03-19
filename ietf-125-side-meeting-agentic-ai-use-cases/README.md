@@ -45,11 +45,11 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 **Use Case: Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals** 
 
-**Abstract.** This presentation explores the challenges of building personal agentic ecosystems on terminal devices, where strict constraints on tokens, latency, and user attention make existing stateless, plain-text protocols insufficient. We present three use cases — cross-app context synchronization, multi-step AuthZ aggregation, and agent evolution via experience templates — each targeting a key inefficiency in current multi-agent workflows on terminals. 
+**Abstract.** This presentation explores the challenges of building personal agentic ecosystems on terminal devices, where strict constraints on tokens, latency, and user attention make existing stateless, plain-text protocols insufficient. We present three use cases — cross-app context synchronization, multi-step AuthZ aggregation, and agent evolution via experience templates — each targeting a key inefficiency in current multi-agent workflows on terminals. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/Agent-to-AgentAPPsTools%20Interaction%20and%20Invocation%20Scenarios%20on%20Terminals%20-%2001.pdf)]
 
 **Use Case: 6G Use Cases for AI Agent Communication Protocols**
 
-**Abstract.** (made available soon)
+**Abstract.** (made available soon) [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf-125-session-slides_draft-stephan-ai-agent-6g-02_short.pdf)]
 
 **Use Case: DT Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery**
 
