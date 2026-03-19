@@ -51,9 +51,9 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 **Abstract.** (made available soon) [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf-125-session-slides_draft-stephan-ai-agent-6g-02_short.pdf)]
 
-**Use Case: DT Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery**
+**Use Case: Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery**
 
-**Abstract.** (made available soon)
+**Abstract.** This presentation focuses on use cases around unexpected incidents management using AI agents, multi-agent service based operations and AI agent discovery. 
 
 
 
