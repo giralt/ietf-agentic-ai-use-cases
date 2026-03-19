@@ -37,7 +37,7 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 ### Guidelines and Requirements for Agentic AI Use Case Descriptions
 
-**Abstract.** This presentation focuses on presenting an initial set of guidalines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis.
+**Abstract.** This presentation focuses on presenting an initial set of guidelines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis.
 
 ### Use Case: Agent Communication Network scenarios and Gap Analysis
 
