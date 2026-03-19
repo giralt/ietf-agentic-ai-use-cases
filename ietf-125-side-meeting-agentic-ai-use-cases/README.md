@@ -39,12 +39,11 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 
 ### Guidelines and Requirements for Agentic AI Use Case Descriptions
 
-**Abstract.** This presentation focuses on presenting an initial set of guidelines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/slides-Agent-Communications-Network-Scenarios-and-Gap-Analysis.pdf)]
+**Abstract.** This presentation focuses on presenting an initial set of guidelines for introducing new agentic AI use cases to the IETF community. We introduce the minimum information, structure, and realism required in each use case description to support IETF scope decisions and gap analysis. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf125-agentic-ai-uses-cases-guidance.pdf)]
 
 ### Use Case: Agent Communication Network scenarios and Gap Analysis
 
-**Abstract.** The talk introduces potential AI agent scenarios in mobile networks and analyzes gaps in existing protocol work where the IETF could play a role. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/UC%20Agentic%20AI%20Multi-Agent%20Intelligence%20for%20Service%20Operations_Discovery.pdf
-)]
+**Abstract.** The talk introduces potential AI agent scenarios in mobile networks and analyzes gaps in existing protocol work where the IETF could play a role. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/slides-Agent-Communications-Network-Scenarios-and-Gap-Analysis.pdf)]
 
 ### Use Case: Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals
 
