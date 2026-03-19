@@ -51,7 +51,8 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 
 ### Use Case: Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery
 
-**Abstract.** This presentation focuses on use cases around unexpected incidents management using AI agents, multi-agent service based operations and AI agent discovery. 
+**Abstract.** This presentation focuses on use cases around unexpected incidents management using AI agents, multi-agent service based operations and AI agent discovery. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/UC%20Agentic%20AI%20Multi-Agent%20Intelligence%20for%20Service%20Operations_Discovery.pdf
+)]
 
 ## Organizers 
 
