@@ -48,7 +48,7 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 
 ### Use Case: Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals
 
-**Abstract.** This presentation explores the challenges of building personal agentic ecosystems on terminal devices, where strict constraints on tokens, latency, and user attention make existing stateless, plain-text protocols insufficient. We present three use cases — cross-app context synchronization, multi-step AuthZ aggregation, and agent evolution via experience templates — each targeting a key inefficiency in current multi-agent workflows on terminals. The talk introduces potential AI agent scenarios in mobile networks and analyzes gaps in existing protocol work where the IETF could play a role.
+**Abstract.** This presentation explores the challenges of building personal agentic ecosystems on terminal devices, where strict constraints on tokens, latency, and user attention make existing stateless, plain-text protocols insufficient. We present three use cases — cross-app context synchronization, multi-step AuthZ aggregation, and agent evolution via experience templates — each targeting a key inefficiency in current multi-agent workflows on terminals. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/Agent-to-AgentAPPsTools%20Interaction%20and%20Invocation%20Scenarios%20on%20Terminals%20-%2001.pdf)
 
 ### Use Case: 6G Use Cases for AI Agent Communication Protocols
 
