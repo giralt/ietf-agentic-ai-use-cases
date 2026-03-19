@@ -35,7 +35,7 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 
 ### Notewell, Agenda Bash, Side Meeting Motivation, and Discussion Questions
 
-https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf125-agentic-ai-uses-cases-side-meeting.pdf
+[[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf125-agentic-ai-uses-cases-side-meeting.pdf)]
 
 ### Guidelines and Requirements for Agentic AI Use Case Descriptions
 
