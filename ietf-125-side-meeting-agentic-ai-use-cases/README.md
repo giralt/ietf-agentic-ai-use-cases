@@ -9,9 +9,9 @@
 ## Goals
 
 - Help bring explicit structure to the extensive breadth of agentic AI use cases that are being brought to the IETF
-- Develop the list of use cases requirements
+- Develop a guidance checklist for authors of use cases to ensure their descriptions are structured, clean, and can be properly used for GAP analysis and requirements specification
 - Develop a taxonomy of use cases
-- Feed the outcome of this work to forthcoming BOFs related to agentic AI
+- Feed the outcome of this work to forthcoming BOFs and WGs related to agentic AI
 - Organize the material ([github repo](https://github.com/giralt/ietf-agentic-ai-use-cases)) and follow up with another side meeting in Vienna 
 
 ## Topic
