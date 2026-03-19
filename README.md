@@ -1,3 +1,3 @@
 # Agentic AI Use Cases
 
-Repo focusing on tracking agentic AI use cases activitiy in the IETF (at least, some of it)
+Repo focused on tracking agentic AI use‑case activities in the IETF and providing a structured approach to support protocol standardization
