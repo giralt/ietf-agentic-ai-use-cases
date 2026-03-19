@@ -31,10 +31,6 @@ This IETF side meeting aims to discuss a concrete set of use cases and derive po
 - [17:30 - 17:45] Discussions
 - [17:45 - 17:50] Conclusions
 
-## Organizers 
-
-Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve@nokia.com>, Roland Schott <Roland.Schott@telekom.de>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
-
 ## Abstracts and slides
 
 ### Guidelines and Requirements for Agentic AI Use Case Descriptions
@@ -56,6 +52,10 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 ### Use Case: Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery
 
 **Abstract.** This presentation focuses on use cases around unexpected incidents management using AI agents, multi-agent service based operations and AI agent discovery. 
+
+## Organizers 
+
+Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve@nokia.com>, Roland Schott <Roland.Schott@telekom.de>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>
 
 
 
