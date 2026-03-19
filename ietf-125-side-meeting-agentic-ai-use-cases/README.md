@@ -49,7 +49,7 @@ Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien.maisonneuve
 
 ### Use Case: 6G Use Cases for AI Agent Communication Protocols
 
-**Abstract.** (made available soon) [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf-125-session-slides_draft-stephan-ai-agent-6g-02_short.pdf)]
+**Abstract.** This presentation provides an overview of the work achieved in 3GPP related to 6G service requirements and highlights key requirements related to AI agent communication protocols. [[slides](https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/ietf-125-session-slides_draft-stephan-ai-agent-6g-02_short.pdf)]
 
 ### Use Case: Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery
 
