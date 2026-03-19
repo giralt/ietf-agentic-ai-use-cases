@@ -1,4 +1,4 @@
-# Side Meeting on Agentic AI Use Cases, IETF 125, Shenzhen, China
+# Side Meeting on Agentic AI Use Cases - IETF 125
 
 ## Logistics
 
