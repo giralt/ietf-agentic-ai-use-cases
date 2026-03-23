@@ -1,4 +1,4 @@
-## IETF 125 Side Meeting – Agentic AI Use Cases (Summary Minutes) 
+## IETF 125 Side Meeting on Agentic AI Use Cases: Summary Minutes 
 
 The meeting identified a strong need to bring structure to the growing set of agentic AI use cases discussed at the IETF. Participants agreed on the following goals:
 
