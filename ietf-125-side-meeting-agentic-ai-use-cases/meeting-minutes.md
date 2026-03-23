@@ -30,7 +30,9 @@ In the final discussion, participants raised the following points:
 
 - Use‑case templates should include quantitative properties (e.g., number of agents, users).
 
-- Aim to have an initial document with the taxonomy, properties and template in June, to collect feedback 1 month before IETF 126. 
+- Aim to have an initial document with the taxonomy, properties and template in June, to collect feedback 1 month before IETF 126.
+
+- Present the document (use cases taxonomy, templates, properties) at the agentic AI related BOFs in IETF 126.
 
 A proposed approach is to maintain:
 
