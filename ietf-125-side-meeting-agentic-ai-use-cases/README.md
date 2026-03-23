@@ -2,7 +2,7 @@
 
 ## Logistics
 
-- Meeting minutes: https://github.com/giralt/ietf-agentic-ai-use-cases/tree/main/ietf-125-side-meeting-agentic-ai-use-cases
+- Meeting minutes: https://github.com/giralt/ietf-agentic-ai-use-cases/blob/main/ietf-125-side-meeting-agentic-ai-use-cases/meeting-minutes.md
 - Topic: “Agentic AI Use Cases”
 - When: Thu March 19, 2026, 16:30 - 18:00 (Shenzhen, China, time zone),
 - Where: Jiangsu Room
